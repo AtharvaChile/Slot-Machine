@@ -1,0 +1,3 @@
+# Slot-Machine
+
+This Slot Machine project is a console-based game developed in Python that simulates a traditional slot machine experience. Players start by depositing an amount of money and then choose the number of lines to bet on (up to 3 lines) and the amount to bet per line, ranging from $1 to $100. The slot machine has a 3x3 grid and uses four symbols ("A", "B", "C", "D") with different frequencies and values. Players spin the reels and can win money based on matching symbols across their chosen lines. The game continues until the player chooses to quit, and their final balance is displayed. This project provides a simple yet engaging way to experience the mechanics of a slot machine.
